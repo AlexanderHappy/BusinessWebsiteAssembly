@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6db0d5de-818c-4ffd-bef0-64628a783791" name="Beget - сборка сайта Бизнес" url="http://siteassembly.sanyapfw.beget.tech/">
+        <fileTransfer rootFolder="/home/s/sanyapfw/siteassembly.sanyapfw.beget.tech/public_html" accessType="SFTP" host="sanyapfw.beget.tech" port="22" sshConfigId="240e754c-f6c7-4186-8335-b756c1953e24" sshConfig="sanyapfw@sanyapfw.beget.tech:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
